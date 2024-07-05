@@ -26,4 +26,10 @@
     height: 100px;
     border-radius: 50%;
   }
-  
+  body{
+    background: rgb(94, 91, 91);
+  }
+  #image {
+    margin: 20px 0;
+}
+
