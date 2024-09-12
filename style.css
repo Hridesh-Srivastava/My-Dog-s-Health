@@ -33,3 +33,18 @@
     margin: 20px 0;
 }
 
+.container #imgs{
+  width : 20%;
+  object-fit: contain;
+  aspect-ratio: 6/7;
+  mix-blend-mode:color-burn;
+ 
+}
+
+.container #imgs1{
+  width: 20%;
+  object-fit: contain;
+  aspect-ratio: 6/7;
+  mix-blend-mode:color-burn ;
+  gap: 100px;
+}
